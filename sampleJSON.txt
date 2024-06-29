@@ -1,0 +1,33 @@
+{
+"name":"Sree",
+"email": "raghu@gmail.com",
+"password": "@123",
+"balace":300
+}
+
+{
+"name":"atme",
+"email": "atme@gmail.com",
+"password": "@123",
+"balace":100
+}
+
+{
+
+"email": "raghu@gmail.com",
+"password": "@123"
+}
+
+
+{
+
+"fromEmailId": "raghu@gmail.com",
+"toEmailId": " "atme@gmail.com",
+"amount":50
+}
+
+
+
+	private String fromEmailId;
+	private String toEmailId;
+	private Double amount;
